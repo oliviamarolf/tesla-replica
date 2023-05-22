@@ -1,0 +1,16 @@
+@media (max-width: 1630px) {
+  .nav-container {
+    column-gap: 30px;
+  }
+
+  .nav-links-center {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    row-gap: 20px;
+  }
+
+  .nav-links-right {
+    display: flex;
+  }
+}
